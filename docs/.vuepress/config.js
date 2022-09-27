@@ -16,7 +16,7 @@ module.exports = {
       repo: 'luozhang002/phenglei-docs',
       editLinks: true,
         editLinkText: "github上编辑此页",
-      docsDir: 'docs/docs',
+      docsDir: 'docs',
       logo: '/logo.png',  // 左上角logo
       nav:[ // 导航栏配置
         {text: '首页', link: '/' },
